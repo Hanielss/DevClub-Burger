@@ -33,11 +33,11 @@ button {
 }
 
 button:hover {
-    opacity: 0.4;
+    opacity: 0.8;
 }
 
 button:active {
-    opacity: 0.9;
+    opacity: 0.4;
 }
 
 ul {
@@ -47,9 +47,7 @@ ul {
     align-items: center;
     display: grid;
     grid-template-columns: 200px 200px 200px;
-
-
-
+    cursor: pointer;
 
 }
 
